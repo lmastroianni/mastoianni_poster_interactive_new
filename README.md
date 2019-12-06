@@ -1,4 +1,4 @@
-# Project Title
+# Johnny Cash Interactive Site
 
 Interactive poster responsive web application
 
