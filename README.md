@@ -18,5 +18,5 @@ What things you need to install the software and how to install them
 
 ## Authors
 
-Lucas Mastroianni (and Trevor)
+Lucas Mastroianni (and Trevor...)
 
